@@ -10,6 +10,6 @@ Here is a list
 
 Here is another list
 * first item
-** is this a subitem?
+** is this a subitem? (no it isn't)
 * second item
 
